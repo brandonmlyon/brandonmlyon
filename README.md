@@ -1,6 +1,6 @@
 ## Brandon Lyon's README
 
-Hi 👋 I'm a full-stack engineer and UX focused on front-end and Growth Marketing. My 3 most recent employers are Codefresh, GitLab, and Experts Exchange.
+Hi 👋 I'm a full-stack engineer, UX, project manager, engineering and design manager, focused on front-end and Growth Marketing. My 3 most recent employers are Codefresh, GitLab, and Experts Exchange.
 
 [My Website](http://about.brandonmlyon.com/) // [Twitter](https://twitter.com/brandon_m_lyon) // [Pinterest](https://www.pinterest.com/designbybrandon/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/) // [GitLab 1](https://gitlab.com/users/brandonmlyon/starred) // [GitLab 2](https://gitlab.com/brandon_lyon)
 
