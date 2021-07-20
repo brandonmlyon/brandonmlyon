@@ -2,7 +2,7 @@
 
 Hi 👋 I'm a full-stack engineer and UX focused on front-end and Growth Marketing.
 
-[GitLab Profile](https://gitlab.com/brandonmlyon) // [My Website](http://about.brandonmlyon.com/) // [Twitter](https://twitter.com/brandon_m_lyon) // [Pinterest](https://www.pinterest.com/designbybrandon/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/)
+[My Website](http://about.brandonmlyon.com/) // [Twitter](https://twitter.com/brandon_m_lyon) // [Pinterest](https://www.pinterest.com/designbybrandon/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/) // [GitLab 1](https://gitlab.com/users/brandonmlyon/starred) // [GitLab 2](https://gitlab.com/brandon_lyon)
 
 ## About Me
 
