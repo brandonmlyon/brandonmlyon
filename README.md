@@ -1,21 +1,20 @@
 ## Brandon Lyon's README
 
-Hi 👋 I'm a full-stack engineer, UX, project manager, engineering manager, and design manager, focused on front-end and Growth Marketing. My 3 most recent employers are Codefresh, GitLab, and Experts Exchange.
+Hi 👋 I'm a Manager, developer, designer, and UX who specializes in building growth and marketing websites. My 3 most recent employers are Codefresh, GitLab, and Experts Exchange.
 
 [My Website](http://about.brandonmlyon.com/) // [Twitter](https://twitter.com/brandon_m_lyon) // [Pinterest](https://www.pinterest.com/designbybrandon/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/) // [GitLab 1](https://gitlab.com/users/brandonmlyon/starred) // [GitLab 2](https://gitlab.com/users/brandon_lyon/activity)
 
 ## About Me
 
-Hybrid designer-developers are rare. I'm a self-taught developer. My university degree is in architecture and I minored in graphic design. I spend my free time reading professional journals to keep up to date on industry trends.
+Hybrid manager-designer-developers are rare. I'm a self-taught developer. My university degree is in architecture and I minored in graphic design. I've had some great management mentors. I spend my free time reading professional journals to keep up to date on industry trends.
 
-- ❤️ I love design and development.
-- 🏄 I've travelled the world but California is the only place that feels like home.
-- 📖 I value knowledge.
-- 🍷 Coffee, tea, or wine please.
-- 🕹️ Video games are my primary recreation.
-- 🥏 Sports aren't my thing but I do play frisbee golf.
-- 🌲🐈 I love plants and animals.
-- 💻 I'm platform agnostic. Arch, Debian, Mac, Windows, Chrome, Android, iOS, whatever.
+- ❤️🎨 I love design and development.
+- 🏄🌴 I've travelled the world but California is the only place that feels like home.
+- 📖📚 I value knowledge.
+- 🕹️🎮 Video games are my primary recreation.
+- 🥏⛳ Sports aren't my thing but I do play frisbee golf.
+- 🌲🐈 Plants and animals make me happy.
+- 💻🖱️ I'm platform agnostic. Arch, Debian, Mac, Windows, Chrome, Android, iOS, whatever.
 
 ### Myers-Briggs Personality type:
 
@@ -24,32 +23,25 @@ Hybrid designer-developers are rare. I'm a self-taught developer. My university 
 ## How I think
 
 - I operate in a judgement-free zone.
-- I want you to feel comfortable around me. Please let me know if there is any way I can improve.
 - The phrase "intent vs impact" is of high importance to me.
+- I want everyone to succeed. Please let me know if you feel you have been set up for failure.
+- I want you to feel comfortable around me. Please let me know if there is any way I can improve.
 - I prefer the frank and direct approach and won't take it personally.
 - I understand and empathize that others might not like the direct approach.
 - I value self-sufficiency.
 - I prefer long term thinking over short term thinking.
 - I'm a fan of [the K.I.S.S principle](https://en.wikipedia.org/wiki/KISS_principle).
 - I honor the 5 Ws. Who, what, when, where, and why? I love it when you ask those questions too.
-- I prefer to plan rather than to improvise.
-- Entropy & chaos will happen. Expect the unexpected.
-- I'm somewhere in-between introvert and extrovert. Interacting with people can be exhausting but it's also enjoyable.
-- Please help me document things! I have a good short term memory but a terrible long term memory.
+- Please help me document things! I have a great short term memory but a terrible long term memory.
 - My background in architecture adds a unique behavioral psychology element to my designs.
-- I want everyone to succeed. Please let me know if you feel you have been set up to fail.
 
 ## Working with me
 
-I'm in the Pacific time zone and I'm not a morning person. That said, I'm happy to be accommodate your schedule. We're all in this together!
+I'm in the Pacific time zone. That said, I'm happy to be accommodate your schedule. We're all in this together!
 
 ## How I learn
 
-Everyone has a different learning style. I learn best by reading, doing, or actively conversing. I'm not an audible nor visual learner and I find videos to be distracting.
-
-### Planning
-
-If you add something to my sprint, then something else has to be removed. Lead time is usually measured in weeks and months, not days and hours. I understand that it's important to be flexible and pivot when appropriate but that shoud not be the norm.
+Everyone has a different learning style. I learn best by reading, doing, or actively conversing. I don't learn as well from audio-visual sources and I find videos to be distracting.
 
 ## Favorite quotes
 
