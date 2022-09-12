@@ -12,7 +12,7 @@ Hybrid manager-designer-developers are rare. I'm a self-taught developer. My uni
 - 🏄🌴 I've travelled the world but California is the only place that feels like home.
 - 📖📚 I value knowledge.
 - 🕹️🎮 Video games are my primary recreation.
-- 🥏⛳ Sports aren't my thing but I do play frisbee golf.
+- 🥏⛳ Sports aren't my thing but I do play frisbee golf and volleyball.
 - 🌲🐈 Plants and animals make me happy.
 - 💻🖱️ I'm platform agnostic. Arch, Debian, Mac, Windows, Chrome, Android, iOS, whatever.
 
