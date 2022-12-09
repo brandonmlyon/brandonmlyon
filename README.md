@@ -15,6 +15,7 @@ Hybrid manager-designer-developers are rare. I'm a self-taught developer. My uni
 - 🥏⛳ Sports aren't my thing but I do play frisbee golf and volleyball.
 - 🌲🐈 Plants and animals make me happy.
 - 💻🖱️ I'm platform agnostic. Arch, Debian, Mac, Windows, Chrome, Android, iOS, whatever.
+- ⌨️⌨️ [I build custom keyboards](https://www.instagram.com/keebl.me/).
 
 ### Myers-Briggs Personality type:
 
@@ -32,7 +33,7 @@ Hybrid manager-designer-developers are rare. I'm a self-taught developer. My uni
 - I prefer long term thinking over short term thinking.
 - I'm a fan of [the K.I.S.S principle](https://en.wikipedia.org/wiki/KISS_principle).
 - I honor the 5 Ws. Who, what, when, where, and why? I love it when you ask those questions too.
-- Please help me document things! I have a great short term memory but a terrible long term memory.
+- Let's document things! Documentation benefits everyone.
 - My background in architecture adds a unique behavioral psychology element to my designs.
 
 ## Working with me
