@@ -1,12 +1,12 @@
 ## Brandon Lyon's README
 
-Hi 👋 I'm a manager, developer, designer, and UX who specializes in building growth and marketing websites. My most recent employers are Macrometa, Codefresh, GitLab, and Experts Exchange.
+Hi 👋 I'm a manager, developer, designer, and UX who specializes in building growth, design systems, and marketing websites.
 
-[My Website](http://about.brandonmlyon.com/) // [Twitter](https://twitter.com/brandon_m_lyon) // [Pinterest](https://www.pinterest.com/designbybrandon/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/)
+[Website](http://about.brandonmlyon.com/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/) // [Pinterest](https://www.pinterest.com/designbybrandon/)
 
 ## About Me
 
-Hybrid manager-designer-developers are rare. I'm a self-taught developer. My university degree is in architecture and I minored in graphic design. I've had some great management mentors. I spend my free time reading professional journals to keep up to date on industry trends.
+Hybrid manager-designer-developers are rare. I'm a self-taught developer with a degree in architecture and a minor in graphic design. I spend my free time reading professional journals to keep up to date on industry trends.
 
 - ❤️🎨 I love design and development.
 - 🏄🌴 I've travelled the world but California is the only place that feels like home.
