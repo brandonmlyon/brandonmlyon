@@ -6,7 +6,7 @@ Hi 👋 I'm a manager, developer, designer, and UX who specializes in building g
 
 ## About Me
 
-Hybrid manager-designer-developers are rare. I'm a self-taught developer with a degree in architecture and a minor in graphic design. I spend my free time reading professional journals to keep up to date on industry trends.
+Hybrid manager-designer-developers are rare. I'm a self-taught developer with a degree in architecture with a partial minor in graphic design. I spend my free time reading professional journals to keep up to date on industry trends, as well as learning new website technologies.
 
 - ❤️🎨 I love design and development.
 - 🏄🌴 I've travelled the world but California is the only place that feels like home.
@@ -14,7 +14,7 @@ Hybrid manager-designer-developers are rare. I'm a self-taught developer with a 
 - 🕹️🎮 Video games are my primary recreation.
 - 🥏⛳ Sports aren't my thing but I do play frisbee golf and volleyball.
 - 🌲🐈 Plants and animals make me happy.
-- 💻🖱️ I'm platform agnostic. Arch, Debian, Mac, Windows, Chrome, Android, iOS, whatever.
+- 💻🖱️ I'm platform agnostic. Arch, Debian, Mac, Windows, Chrome, Android, iOS, AR, VR, wearables, voice assistants, AI, whatever.
 - ⌨️⌨️ [I build custom keyboards](https://www.instagram.com/keebl.me/).
 
 ### Myers-Briggs Personality type:
@@ -23,7 +23,7 @@ Hybrid manager-designer-developers are rare. I'm a self-taught developer with a 
 
 ## How I think
 
-- I operate in a judgement-free zone.
+- I operate in a no-judgement zone.
 - The phrase "intent vs impact" is of high importance to me.
 - I want everyone to succeed. Please let me know if you feel you have been set up for failure.
 - I want you to feel comfortable around me. Please let me know if there is any way I can improve.
@@ -38,7 +38,7 @@ Hybrid manager-designer-developers are rare. I'm a self-taught developer with a 
 
 ## Working with me
 
-I'm in the Pacific time zone. That said, I'm happy to be accommodate your schedule. We're all in this together!
+I'm in the Pacific time zone. That said, I'm flexible to be accommodate your schedule. We're all in this together!
 
 ## How I learn
 
